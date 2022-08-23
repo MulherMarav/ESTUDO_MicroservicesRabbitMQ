@@ -16,8 +16,8 @@ Como funciona um Arquitetura Microservices:
 
 * Criação do Cliente Service
 
-![image](https://user-images.githubusercontent.com/101612046/186279404-04af3fe2-e416-4d7b-9365-1c2a58209fc9.png)
-![image](https://user-images.githubusercontent.com/101612046/186279504-2d199b25-0672-4410-8110-88156a242870.png)
+![image](https://user-images.githubusercontent.com/101612046/186280186-29ce8605-d905-418b-9331-7514ea78badc.png)
+![image](https://user-images.githubusercontent.com/101612046/186280249-3f6d1ee6-76a4-407d-ab08-0152cfe249c9.png)
 
 * Criação do Cloud Gateway
 
@@ -25,5 +25,5 @@ Como funciona um Arquitetura Microservices:
 
 * Criação do Cartão Service
 
-![image](https://user-images.githubusercontent.com/101612046/186279174-2ba3698f-98ba-47fe-94fe-41f9f923ae09.png)
-![image](https://user-images.githubusercontent.com/101612046/186279328-aeb57ec8-2ee5-46a5-9389-825fe1644cfe.png)
+![image](https://user-images.githubusercontent.com/101612046/186280361-eca5f853-d4d0-4ec8-89dc-dc4704733d75.png)
+![image](https://user-images.githubusercontent.com/101612046/186280436-2b3e7303-91c7-4922-ba5e-c03e837e11bf.png)
