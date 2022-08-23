@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: cloud-gateway
+    
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true #habilitando localizador de services, e por caixa baixa
+server:
+  port: 8080
+  
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka #realizando o registro no eureka

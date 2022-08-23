@@ -1,0 +1,11 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: eureka-server
+    
+eureka:
+  client:
+    register-with-eureka: false #Por padrão, o eureka também tenta se registrar
+    fetch-registry: false #para deixar em responsabilidade do Gateway, para não se autoregistrar nele mesmo
