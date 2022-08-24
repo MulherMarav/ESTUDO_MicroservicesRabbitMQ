@@ -24,7 +24,11 @@ Como funciona um Arquitetura Microservices:
 
 # Mensageria
 
+Como funciona mensageria:
+
 ![image](https://user-images.githubusercontent.com/101612046/186409090-567e0637-e585-4fb1-8b1b-4be3b090c281.png)
+
+![image](https://user-images.githubusercontent.com/101612046/186403170-7280f517-59d3-4a06-9f31-0ad8b3c91d30.png)
 
 * Instalar via Docker e fazer login no  RabbitMQ
 
@@ -34,8 +38,6 @@ docker run -it --name microservicerabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:
 ```
 <p>username: guest</p>
 <p>password: guest</p>
-
-![image](https://user-images.githubusercontent.com/101612046/186403170-7280f517-59d3-4a06-9f31-0ad8b3c91d30.png)
 
 # Postman
 
