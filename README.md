@@ -24,6 +24,8 @@ Como funciona um Arquitetura Microservices:
 
 # Mensageria
 
+![image](https://user-images.githubusercontent.com/101612046/186409090-567e0637-e585-4fb1-8b1b-4be3b090c281.png)
+
 ![image](https://user-images.githubusercontent.com/101612046/186403170-7280f517-59d3-4a06-9f31-0ad8b3c91d30.png)
 
 # Postman
