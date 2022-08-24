@@ -30,8 +30,8 @@ Como funciona um Arquitetura Microservices:
 docker run -it --name microservicerabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.9-management
 
 ```
-<p>username: guest
-password: guest</p>
+<p>username: guest</p>
+<p>password: guest</p>
 
 ![image](https://user-images.githubusercontent.com/101612046/186403170-7280f517-59d3-4a06-9f31-0ad8b3c91d30.png)
 
