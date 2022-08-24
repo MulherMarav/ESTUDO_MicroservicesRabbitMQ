@@ -41,6 +41,9 @@ docker run -it --name microservicerabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:
 # Postman
 
 ![image](https://user-images.githubusercontent.com/101612046/186402011-4e935c4c-ba8a-4b60-bbc5-8e690aa2e3c1.png)
+![image](https://user-images.githubusercontent.com/101612046/186440089-a5d6c0bf-a36b-4deb-8bc0-ced0b093e1a5.png)
+![image](https://user-images.githubusercontent.com/101612046/186440212-e6694a0c-c873-4616-9e02-73963efc1d66.png)
+
 
 
 
