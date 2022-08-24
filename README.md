@@ -22,8 +22,7 @@ Como funciona um Arquitetura Microservices:
 
 * Criação do Serviço de Mensageria
 
-
-![image](https://user-images.githubusercontent.com/101612046/186402405-b74ecc75-0725-4fe0-9fa8-ed9727c7c144.png)
+![image](https://user-images.githubusercontent.com/101612046/186403170-7280f517-59d3-4a06-9f31-0ad8b3c91d30.png)
 
 ![image](https://user-images.githubusercontent.com/101612046/186402011-4e935c4c-ba8a-4b60-bbc5-8e690aa2e3c1.png)
 
