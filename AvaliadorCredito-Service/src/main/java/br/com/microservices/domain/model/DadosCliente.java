@@ -1,4 +1,4 @@
-package br.com.microservices.domain;
+package br.com.microservices.domain.model;
 
 import lombok.Data;
 
@@ -7,4 +7,5 @@ public class DadosCliente {
 
 	private Long id;
 	private String nome;
+	private Integer idade;
 }

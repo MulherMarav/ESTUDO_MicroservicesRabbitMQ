@@ -5,7 +5,7 @@ import java.util.Optional;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import br.com.microservices.domain.Cliente;
+import br.com.microservices.domain.model.Cliente;
 import br.com.microservices.infra.repository.ClienteRepository;
 import lombok.RequiredArgsConstructor;
 

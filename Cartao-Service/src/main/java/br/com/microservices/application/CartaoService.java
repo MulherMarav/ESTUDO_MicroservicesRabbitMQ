@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import br.com.microservices.domain.Cartao;
+import br.com.microservices.domain.model.Cartao;
 import br.com.microservices.infra.repository.CartaoRepository;
 import lombok.RequiredArgsConstructor;
 

@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import br.com.microservices.domain.ClienteCartao;
+import br.com.microservices.domain.model.ClienteCartao;
 import br.com.microservices.infra.repository.ClienteCartaoRepository;
 import lombok.RequiredArgsConstructor;
 

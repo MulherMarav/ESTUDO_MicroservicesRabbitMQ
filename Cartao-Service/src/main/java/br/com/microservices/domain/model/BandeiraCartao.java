@@ -1,4 +1,4 @@
-package br.com.microservices.domain;
+package br.com.microservices.domain.model;
 
 public enum BandeiraCartao {
 

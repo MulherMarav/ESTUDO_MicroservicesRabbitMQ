@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.microservices.application.representation.CartaoSaveRequest;
 import br.com.microservices.application.representation.CartoesPorClienteResponse;
-import br.com.microservices.domain.Cartao;
-import br.com.microservices.domain.ClienteCartao;
+import br.com.microservices.domain.model.Cartao;
+import br.com.microservices.domain.model.ClienteCartao;
 import lombok.RequiredArgsConstructor;
 
 @RestController

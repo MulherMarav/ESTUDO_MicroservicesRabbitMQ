@@ -2,8 +2,8 @@ package br.com.microservices.application.representation;
 
 import java.math.BigDecimal;
 
-import br.com.microservices.domain.BandeiraCartao;
-import br.com.microservices.domain.Cartao;
+import br.com.microservices.domain.model.BandeiraCartao;
+import br.com.microservices.domain.model.Cartao;
 import lombok.Data;
 
 @Data

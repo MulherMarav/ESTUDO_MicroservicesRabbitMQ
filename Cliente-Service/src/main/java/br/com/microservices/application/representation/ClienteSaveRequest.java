@@ -1,6 +1,6 @@
 package br.com.microservices.application.representation;
 
-import br.com.microservices.domain.Cliente;
+import br.com.microservices.domain.model.Cliente;
 import lombok.Data;
 
 @Data

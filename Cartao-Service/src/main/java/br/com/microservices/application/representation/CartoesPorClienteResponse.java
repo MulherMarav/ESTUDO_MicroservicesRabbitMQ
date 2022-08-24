@@ -2,7 +2,7 @@ package br.com.microservices.application.representation;
 
 import java.math.BigDecimal;
 
-import br.com.microservices.domain.ClienteCartao;
+import br.com.microservices.domain.model.ClienteCartao;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -4,7 +4,12 @@ server:
 spring:
   application:
     name: cartao-service
-
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    
 eureka:
   client:
     service-url:
@@ -12,3 +17,7 @@ eureka:
   instance:
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}} 
     #gera o id da instancia de forma randômica junto com application name
+
+mq: #fila
+  queues:
+    emissao-cartoes: emissao-cartoes

@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import br.com.microservices.domain.ClienteCartao;
+import br.com.microservices.domain.model.ClienteCartao;
 
 public interface ClienteCartaoRepository extends JpaRepository<ClienteCartao, Long> {
 	

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import br.com.microservices.application.representation.ClienteSaveRequest;
-import br.com.microservices.domain.Cliente;
+import br.com.microservices.domain.model.Cliente;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
