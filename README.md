@@ -8,6 +8,8 @@ ANDAMENTO - Estudo sobre Microservices com Spring Cloud e Mensageira RabbitMQ
 <p>Comunicação entre services (síncrona) - Feign</p>
 <p>Comunicação entre mensageria (assíncrona) - RabbitMQ</p>
 
+</br>
+
 # Conteúdo do Curso
 
 * Criação do Eureka Server
