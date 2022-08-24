@@ -23,6 +23,7 @@ public class Startup {
 				.routes()
 					.route(r -> r.path("/clientes/**").uri("lb://cliente-service"))
 					.route(r -> r.path("/cartoes/**").uri("lb://cartao-service"))
+					.route(r -> r.path("/avaliacoes-credito/**").uri("lb://avaliadorcredito-service"))
 				.build();
 	}
 }
