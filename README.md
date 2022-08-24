@@ -22,6 +22,8 @@ ANDAMENTO - Estudo sobre Microservices com Spring Cloud e Mensageira RabbitMQ
 
 * Criação do Serviço de Mensageria
 
+</br>
+
 # Mensageria
 
 * Como funciona mensageria:
@@ -37,6 +39,10 @@ docker run -it --name microservicerabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:
 <p>http://localhost:15672</p>
 <p>username: guest</p>
 <p>password: guest</p>
+
+![image](https://user-images.githubusercontent.com/101612046/186440388-dcb8680d-a943-4200-9dca-02e63603507e.png)
+
+</br>
 
 # Postman
 
