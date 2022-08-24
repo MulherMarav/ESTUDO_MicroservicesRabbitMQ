@@ -27,3 +27,12 @@ Como funciona um Arquitetura Microservices:
 
 ![image](https://user-images.githubusercontent.com/101612046/186280361-eca5f853-d4d0-4ec8-89dc-dc4704733d75.png)
 ![image](https://user-images.githubusercontent.com/101612046/186280436-2b3e7303-91c7-4922-ba5e-c03e837e11bf.png)
+
+* Criação do Avaliador de Crédito
+
+![image](https://user-images.githubusercontent.com/101612046/186402011-4e935c4c-ba8a-4b60-bbc5-8e690aa2e3c1.png)
+
+* Criação do Serviço de Mensageria
+
+![image](https://user-images.githubusercontent.com/101612046/186402405-b74ecc75-0725-4fe0-9fa8-ed9727c7c144.png)
+
